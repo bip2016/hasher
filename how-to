@@ -1,0 +1,2 @@
+How to create a tarball of a git repository using "git archive":
+git archive --format=tar.gz -o /tmp/my-repo.tar.gz --prefix=my-repo/ master
